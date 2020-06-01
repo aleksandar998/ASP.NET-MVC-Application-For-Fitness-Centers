@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.75, 15.25" name="Korisnici">
+  <DataContextMoniker Name="/KorisniciDataContext" />
+  <nestedChildShapes>
+    <classShape Id="49168969-ab0f-4a07-bc8f-9e9c233576d6" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/KorisniciDataContext/Aktivnost" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b9c2ede-937f-4608-9c9c-bb03a468dacc" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7b301f25-e94f-4fe8-bec4-9ff4bd7cf1f3" absoluteBounds="6.5, 1.25, 2, 1.0016910807291668">
+      <DataClassMoniker Name="/KorisniciDataContext/Individualna" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd4bcefc-c728-4e87-ba4f-23323c22b2f8" absoluteBounds="6.515, 1.71, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f5833e5-dc35-4c3d-81ed-43d7a3e4581d" absoluteBounds="6.5, 14, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/KorisniciDataContext/Grupna" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fadacb3a-825a-4e5e-bf70-a8d1769bee74" absoluteBounds="6.515, 14.46, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b8103034-3b32-4402-ac78-f6b8b4cee329" absoluteBounds="3.5, 6.875, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/KorisniciDataContext/Kalendar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="08fdf1d9-0a63-4ef6-b02a-057547d7f3c7" absoluteBounds="3.515, 7.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bc055c34-47f2-4216-9f0e-8b742dc56abf" absoluteBounds="0.75, 6.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/KorisniciDataContext/Korisnik" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d72bad6c-f6c5-4b95-993e-1a7990d09e1d" absoluteBounds="0.765, 6.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="adc6f643-6e90-429c-bf52-0360697c8f46" absoluteBounds="9.5, 9.875, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/KorisniciDataContext/Recepcionar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0253bd53-cd64-46b8-b878-17276bd7841c" absoluteBounds="9.515, 10.335, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4cc9696b-4342-4402-895f-5223216e1d4c" absoluteBounds="6.5, 6.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/KorisniciDataContext/Rezervisan_Termin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="15033115-1eda-4155-bfd2-801fc225ef22" absoluteBounds="6.515, 6.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="697d9307-699e-435e-be8e-c2378f1bea21" absoluteBounds="0.75, 3.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/KorisniciDataContext/Role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb1e3d0f-57d9-402c-a4e5-4edce46306d2" absoluteBounds="0.765, 4.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51b86f38-73bb-4ce4-beb1-a5b5a5b4d42b" absoluteBounds="3.75, 8.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/KorisniciDataContext/Sala" />
+      <nestedChildShapes>
+        <elementListCompartment Id="532903cc-eb3b-475a-aa26-3cf1d0a6e4c3" absoluteBounds="3.765, 9.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d64b33b8-c567-4519-a7ec-3cea90102bff" absoluteBounds="9.5, 11.625, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/KorisniciDataContext/Sistemski_Administrator" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f2fcb20-8e61-411c-872f-e64441742c58" absoluteBounds="9.515, 12.085, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8a8eeb94-b893-444c-8387-1349d7377bd7" absoluteBounds="9.5, 13.375, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/KorisniciDataContext/Trener" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1bad73e6-9fc0-43c3-8102-51315df1c416" absoluteBounds="9.515, 13.835, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f7d8fff0-d8c7-4790-93ab-f2599aa9749a" absoluteBounds="6.5, 3.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/KorisniciDataContext/Uplata" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3cc98a03-8a95-482d-baca-3369c5fa2569" absoluteBounds="6.515, 3.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f0a965a9-febb-411a-9272-d6d79c04b6b6" absoluteBounds="3.5, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/KorisniciDataContext/UserRole" />
+      <nestedChildShapes>
+        <elementListCompartment Id="14e5568c-8991-48e7-bc96-4ee746b481e6" absoluteBounds="3.515, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dc8e4597-9358-4210-a7ba-b4d1fe1be81f" absoluteBounds="3.5, 10.875, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/KorisniciDataContext/ZahtevOprema" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb64521c-c332-40da-bf09-e959f414cef0" absoluteBounds="3.515, 11.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c8888b74-fbae-4b66-a7c5-8b871c9c32df" absoluteBounds="6.75, 11.25, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/KorisniciDataContext/Zaposleni" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0357731c-edb1-4216-9a1a-b1c6048c5ed8" absoluteBounds="6.765, 11.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.75 : 1.69314697265625); (6.5 : 1.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Aktivnost/Aktivnost_Individualna" />
+      <nodes>
+        <classShapeMoniker Id="49168969-ab0f-4a07-bc8f-9e9c233576d6" />
+        <classShapeMoniker Id="7b301f25-e94f-4fe8-bec4-9ff4bd7cf1f3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 2.1362939453125); (6.125 : 2.5112939453125); (6.125 : 13.6242304683994); (6.50076953160056 : 14)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KorisniciDataContext/Aktivnost/Aktivnost_Grupna" />
+      <nodes>
+        <classShapeMoniker Id="49168969-ab0f-4a07-bc8f-9e9c233576d6" />
+        <classShapeMoniker Id="0f5833e5-dc35-4c3d-81ed-43d7a3e4581d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.47199625651042); (3.5 : 7.47199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Korisnik/Korisnik_Kalendar" />
+      <nodes>
+        <classShapeMoniker Id="bc055c34-47f2-4216-9f0e-8b742dc56abf" />
+        <classShapeMoniker Id="b8103034-3b32-4402-ac78-f6b8b4cee329" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.5 : 7.47199625651042); (6.20833333333333 : 7.47199625651042 : JumpStart); (6.04166666666667 : 7.47199625651042 : JumpEnd); (5.5 : 7.47199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Rezervisan_Termin/Rezervisan_Termin_Kalendar" />
+      <nodes>
+        <classShapeMoniker Id="4cc9696b-4342-4402-895f-5223216e1d4c" />
+        <classShapeMoniker Id="b8103034-3b32-4402-ac78-f6b8b4cee329" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.65625); (6.04166666666667 : 6.65625 : JumpStart); (6.20833333333333 : 6.65625 : JumpEnd); (6.5 : 6.65625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Korisnik/Korisnik_Rezervisan_Termin" />
+      <nodes>
+        <classShapeMoniker Id="bc055c34-47f2-4216-9f0e-8b742dc56abf" />
+        <classShapeMoniker Id="4cc9696b-4342-4402-895f-5223216e1d4c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 9.47199625651042); (6.04166666666667 : 9.47199625651042 : JumpStart); (6.20833333333333 : 9.47199625651042 : JumpEnd); (7.5 : 9.47199625651042); (7.5 : 8.27089680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Sala/Sala_Rezervisan_Termin" />
+      <nodes>
+        <classShapeMoniker Id="51b86f38-73bb-4ce4-beb1-a5b5a5b4d42b" />
+        <classShapeMoniker Id="4cc9696b-4342-4402-895f-5223216e1d4c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.6249975 : 2.1362939453125); (5.6249975 : 3.59375); (6.04166666666667 : 3.59375 : JumpStart); (6.20833333333333 : 3.59375 : JumpEnd); (6.5 : 3.59375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Aktivnost/Aktivnost_Uplata" />
+      <nodes>
+        <classShapeMoniker Id="49168969-ab0f-4a07-bc8f-9e9c233576d6" />
+        <classShapeMoniker Id="f7d8fff0-d8c7-4790-93ab-f2599aa9749a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.53322235486779); (3.15822235486779 : 6.125); (6.04166666666667 : 6.125 : JumpStart); (6.20833333333333 : 6.125 : JumpEnd); (7.5 : 6.125); (7.5 : 5.27089680989583)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Korisnik/Korisnik_Uplata" />
+      <nodes>
+        <classShapeMoniker Id="bc055c34-47f2-4216-9f0e-8b742dc56abf" />
+        <classShapeMoniker Id="f7d8fff0-d8c7-4790-93ab-f2599aa9749a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.7182867976262 : 6.5); (3.125 : 6.0932867976262); (3.125 : 4.44314697265625); (3.5 : 4.44314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Korisnik/Korisnik_UserRole" />
+      <nodes>
+        <classShapeMoniker Id="bc055c34-47f2-4216-9f0e-8b742dc56abf" />
+        <classShapeMoniker Id="f0a965a9-febb-411a-9272-d6d79c04b6b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.81856974283854); (3.04166666666667 : 4.81856974283854 : JumpStart); (3.20833333333333 : 4.81856974283854 : JumpEnd); (3.5 : 4.81856974283854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Role/Role_UserRole" />
+      <nodes>
+        <classShapeMoniker Id="697d9307-699e-435e-be8e-c2378f1bea21" />
+        <classShapeMoniker Id="f0a965a9-febb-411a-9272-d6d79c04b6b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 8.4631982421875); (1.75 : 11.5681469726562); (3.5 : 11.5681469726562)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Korisnik/Korisnik_ZahtevOprema" />
+      <nodes>
+        <classShapeMoniker Id="bc055c34-47f2-4216-9f0e-8b742dc56abf" />
+        <classShapeMoniker Id="dc8e4597-9358-4210-a7ba-b4d1fe1be81f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.75 : 11.25); (7.75 : 10.3758455403646); (9.5 : 10.3758455403646)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Zaposleni/Zaposleni_Recepcionar" />
+      <nodes>
+        <classShapeMoniker Id="c8888b74-fbae-4b66-a7c5-8b871c9c32df" />
+        <classShapeMoniker Id="adc6f643-6e90-429c-bf52-0360697c8f46" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 12.1258455403646); (9.5 : 12.1258455403646)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Zaposleni/Zaposleni_Sistemski_Administrator" />
+      <nodes>
+        <classShapeMoniker Id="c8888b74-fbae-4b66-a7c5-8b871c9c32df" />
+        <classShapeMoniker Id="d64b33b8-c567-4519-a7ec-3cea90102bff" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.65625 : 13.0208968098958); (8.65625 : 13.65625); (9.5 : 13.65625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/KorisniciDataContext/Zaposleni/Zaposleni_Trener" />
+      <nodes>
+        <classShapeMoniker Id="c8888b74-fbae-4b66-a7c5-8b871c9c32df" />
+        <classShapeMoniker Id="8a8eeb94-b893-444c-8387-1349d7377bd7" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
